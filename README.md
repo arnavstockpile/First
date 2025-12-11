@@ -1,7 +1,9 @@
 # This is where you type the title.
-<br>
+
 This is my first GitHub repository...
+
 A command is-->{...}
+
 First, open the folder you want to work in in VS Code
 Then use {git clone <FileLink>} to import a copy of the Repository into your system
 {>cd <FilePath>} to 'go into/open' your repository
