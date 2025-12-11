@@ -1,4 +1,4 @@
-# This is where you type the title.
+# This is where you type the title.<br>
 This is my first GitHub repository...
 A command is-->{...}
 First, open the folder you want to work in in VS Code
