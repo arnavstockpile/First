@@ -1,4 +1,4 @@
-# This is where you type the title.
+# Basic Git/GitHub commands.
 
 This is my first GitHub repository...
 
